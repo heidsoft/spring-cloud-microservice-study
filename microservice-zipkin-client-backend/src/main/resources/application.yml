@@ -4,5 +4,3 @@ server:
 spring:
   application:
     name: microservice-zipkin-client-backend
-  zipkin:
-    base-url: http://localhost:11008
